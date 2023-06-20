@@ -1,0 +1,15 @@
+SMAP
+example_jsp.java
+JSP
+*S JSP
+*F
++ 0 example.jsp
+admin/example.jsp
+*L
+1,15:62
+15:76,2
+16:162,7
+16,54:80
+70:134,3
+71,8:137
+*E

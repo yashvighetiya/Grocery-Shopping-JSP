@@ -1,0 +1,19 @@
+SMAP
+add_005farea_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_area.jsp
+admin/add_area.jsp
+*L
+1:57
+2:140,8
+3:148
+3:170,5
+3:151
+4:60
+5:61,2
+6,49:63
+55:112,3
+56,8:115
+*E

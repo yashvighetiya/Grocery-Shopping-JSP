@@ -1,0 +1,10 @@
+SMAP
+example_jsp.java
+JSP
+*S JSP
+*F
++ 0 example.jsp
+admin/example.jsp
+*L
+1,42:44
+*E

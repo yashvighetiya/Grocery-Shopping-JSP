@@ -1,0 +1,10 @@
+SMAP
+delete_005fproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 delete_product.jsp
+client/delete_product.jsp
+*L
+1,38:44
+*E
